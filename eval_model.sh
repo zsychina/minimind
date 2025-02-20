@@ -1,1 +1,0 @@
-python -u eval_model.py --load 0 --model_mode 1
